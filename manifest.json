@@ -15,5 +15,5 @@
    ],
    "web_accessible_resources": ["hide-boards.js"],
    "short_name": "G9 TalentWall",
-   "version": "0.0.1"
+   "version": "0.0.2"
 }
